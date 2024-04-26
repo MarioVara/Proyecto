@@ -1,0 +1,96 @@
+.titulo {
+    text-align: center;
+}
+.parrafos{
+    text-align: center;
+    padding: 5%;
+}
+.subtitulo{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulin{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+.unicode{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.pequeno{
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.pequeno a{
+    border-radius: 2px;
+    font-size: 48px;
+    text-decoration: none;
+}
+.unicodito{
+    font-size: 24px;
+}
+table{
+    text-align: center;
+}
+.uno{
+    background-color: rgba(43, 255, 0, 0.438);
+    width: 20%;
+    display: inline-block;
+    margin: 5px;
+    border: solid;
+    padding: 5px;
+}
+.dos{
+    background-color: rgba(0, 255, 255, 0.5);
+    width: 20%;
+    display: inline-block;
+    margin: 5px;
+    border: solid;
+    padding: 5px;
+
+}
+.tres{
+    background-color: rgba(255, 238, 0, 0.562);
+    width: 20%;
+    display: inline-block;
+    margin: 5px;
+    border: solid;
+    padding: 5px;
+
+}
+.subrayar{
+    text-decoration: underline;
+    background-color: rgba(0, 0, 0, 0.096);
+    display: inline;
+}
+.tabla{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+
+}
+.pintar{
+    width: 100%;
+    padding: 5%;
+    padding-top: 2%;
+}
+.pintar th{
+    background-color: rgba(64, 64, 133, 0.363);
+    text-align: center;
+    vertical-align: top;
+    width: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.pintar td{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(64, 108, 133, 0.363);
+    text-align: center;
+    vertical-align: top;
+}
